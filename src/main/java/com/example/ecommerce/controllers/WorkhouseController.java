@@ -1,8 +1,9 @@
 package com.example.ecommerce.controllers;
 
-import edu.birzeit.ecommerce.models.Supplier;
-import edu.birzeit.ecommerce.models.Workhouse;
-import edu.birzeit.ecommerce.services.WorkhouseService;
+import com.example.ecommerce.models.Supplier;
+import com.example.ecommerce.models.Workhouse;
+import com.example.ecommerce.services.WorkhouseService;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

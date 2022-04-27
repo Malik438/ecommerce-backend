@@ -1,5 +1,6 @@
 package com.example.ecommerce.services;
 
+import com.example.ecommerce.models.Product;
 import com.example.ecommerce.models.Supplier;
 import com.example.ecommerce.models.Workhouse;
 import com.example.ecommerce.repositories.SupplierRepository;
